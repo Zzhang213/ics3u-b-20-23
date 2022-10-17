@@ -1,5 +1,7 @@
 package assignment;
 
+import java.util.Scanner;
+
 /**
  * BayviewGlenPools
  */
